@@ -1,0 +1,107 @@
+div {
+  font-family: Arial;
+}
+.head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.left {
+  margin-left: 30px;
+}
+.omni {
+  font-size: 18px;
+}
+.infinity {
+  font-size: px;
+  color:  rgb(180, 103, 16);
+}
+.right {
+  display: flex;
+  align-items: center;
+  margin-right: 80px;
+}
+.how {
+  margin-right: 15px;
+}
+.meal {
+  margin-right: 15px;
+}
+.test {
+  margin-right: 15px;
+}
+.price {
+  margin-right: 15px;
+}
+.try {
+  background-color: rgb(180, 103, 16);
+  color: white;
+  font-weight: bold;
+  border: none;
+  border-radius: 5px;
+  padding: 5px 10px;
+}
+.main {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.lefty {
+  margin-left: 30px;
+  width: 500px;
+}
+.first {
+  font-size: 36px;
+  font-weight: bold;
+  width: 400px;
+}
+.second {
+  width: 430px;
+  line-height: 24px;
+}
+.start {
+  background-color: rgb(231, 151, 4);
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  font-size: 14px;
+  font-weight: bold;
+  margin-right: 10px;
+}
+.learn {
+  background-color: white;
+  color: black;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  font-size: 14px;
+  font-weight: bold;
+}
+.righty {
+  flex: 1;
+}
+.one {
+  position: relative;
+}
+.img {
+  width: 200px;
+  height: 250px;
+  object-fit: cover;
+}
+.imgg {
+  position: absolute;
+  width: 220px;
+  height: 150px;
+  object-fit: cover;
+  bottom: -10px;
+  left: 70px;
+}
+.imggg {
+  width: 240px;
+  height: 150px;
+  object-fit: cover;
+  position: absolute;
+  bottom: -80px;
+  left: -60px;
+}
